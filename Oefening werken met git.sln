@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening werken met git", "Oefening werken met git\Oefening werken met git.csproj", "{4BB7C0CC-1DA5-42F9-BC6B-92D91E4C95AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB7C0CC-1DA5-42F9-BC6B-92D91E4C95AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB7C0CC-1DA5-42F9-BC6B-92D91E4C95AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB7C0CC-1DA5-42F9-BC6B-92D91E4C95AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB7C0CC-1DA5-42F9-BC6B-92D91E4C95AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40480487-98EF-4FD5-A343-6A11637AF696}
+	EndGlobalSection
+EndGlobal
